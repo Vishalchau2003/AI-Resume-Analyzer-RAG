@@ -1,0 +1,71 @@
+# ==========================
+# Core Application
+# ==========================
+streamlit
+python-dotenv
+
+# ==========================
+# LangChain Ecosystem
+# ==========================
+langchain
+langchain-community
+langchain-google-genai
+langchain-text-splitters
+
+# ==========================
+# Google Gemini
+# ==========================
+google-generativeai
+
+# ==========================
+# Vector Database
+# ==========================
+faiss-cpu
+
+# ==========================
+# Embedding Models
+# ==========================
+sentence-transformers
+
+# ==========================
+# PDF Processing
+# ==========================
+pypdf
+pdfplumber
+
+# ==========================
+# Data Processing
+# ==========================
+numpy
+pandas
+
+# ==========================
+# Machine Learning Utilities
+# ==========================
+scikit-learn
+
+# ==========================
+# Visualization
+# ==========================
+matplotlib
+
+# ==========================
+# HTTP Requests
+# ==========================
+requests
+
+# ==========================
+# Progress Bars
+# ==========================
+tqdm
+
+# ==========================
+# FastAPI (Future Deployment)
+# ==========================
+fastapi
+uvicorn
+
+# ==========================
+# Optional
+# ==========================
+typing_extensions
